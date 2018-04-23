@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+body {
+  font-family: 'Gugi', cursive;
+}
+
+select {
+  display: block;
+  margin: auto;
+  font-size: 20px;
+}
+
+#world {
+  display: block;
+  margin: auto;
+  width: 300px;
+  border: solid 0.2rem white;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-bottom: 2rem;
+  width: 500px;
+  border: solid 0.2rem black;
+}
+
+#main-map {
+  display: block;
+  height: 300px;
+  width: 700px;
+  margin: auto;
+  margin-bottom: 2rem;
+  border: solid 0.2rem black;
+  padding: 1rem;
+}
