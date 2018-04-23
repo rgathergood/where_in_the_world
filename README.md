@@ -1,4 +1,4 @@
-# Around the World
+# Where in the World
 Web app built using Javascript using Google Maps and the Rest Countries API. Created with OliBerry84.
 
 Original Repo here: https://github.com/OliBerry84/Week12WedsLab
